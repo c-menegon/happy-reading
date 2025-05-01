@@ -1,4 +1,4 @@
-# Design Document
+# Happy Reading Database
 
 By Carolina Menegon
 
